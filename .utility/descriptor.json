@@ -11,7 +11,7 @@
   "publish": true,
   "package": {
     "vcs_url": "https://github.com/watson-developer-cloud/android-sdk.git",
-    "repo": "watson-developer-cloud",
+    "repo": "ibmwatson/watson-developer-cloud",
     "issue_tracker_url": "https://github.com/watson-developer-cloud/android-sdk/issues",
     "subject": "lpatino10",
     "website_url": "https://github.com/watson-developer-cloud/android-sdk",
