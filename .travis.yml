@@ -52,3 +52,4 @@ deploy:
   on:
     tags: true
     repo: lpatino10/android-sdk
+  dry-run: true
